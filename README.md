@@ -1,4 +1,4 @@
-# Task 4 — Sentiment Analysis
+# Task 3— Sentiment Analysis
 
 ## Overview
 This task applies Natural Language Processing (NLP) sentiment analysis to 4,914 Amazon product reviews. Two sentiment models (VADER and TextBlob) are combined with a rule-based emotion detection system to classify reviews, detect emotions, and surface trends in public opinion.
